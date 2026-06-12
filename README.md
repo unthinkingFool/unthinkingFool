@@ -31,57 +31,6 @@
 
 ---
 
-##  About Me
-
-```python
-class SwapnilDas:
-    role          = "Undergrad @ BUET CSE  · Student ID: 2405016"
-    mission       = "Become a world-class AI/ML Engineer — fundamentals to production"
-
-    # ── Core ML & Deep Learning ──────────────────────────────────────────────
-    ml_core       = ["Loss Functions", "Backpropagation", "Gradient Descent", "Regularization"]
-    deep_learning = ["PyTorch", "Neural Network Diagnostics", "CNNs", "Transformers (learning)"]
-
-    # ── GenAI & LLM Engineering ──────────────────────────────────────────────
-    genai_stack   = ["RAG Pipelines", "Multi-agent (LangGraph)", "Prompt Engineering",
-                     "Embedding Models", "Vector Search (ChromaDB · FAISS)"]
-
-    # ── Databases & SQL ──────────────────────────────────────────────────────
-    data_stack    = ["SQL (Advanced)",  "Schema Design"]
-
-    # ── System Design & Architecture ─────────────────────────────────────────
-    system_design = "HLD/LLD · Distributed Systems · Scalability Patterns · Design Principles"
-
-    # ── Deployment & MLOps ───────────────────────────────────────────────────
-    mlops         = ["FastAPI", "Docker", "AWS (EC2/S3/Lambda)", "MLflow",
-                     "Kubernetes", "GitHub Actions CI/CD"]
-
-    # ── Monitoring & Observability ───────────────────────────────────────────
-    monitoring    = "Model drift detection · Performance tracking · Production reliability"
-
-    building_in_public = True   # Daily LinkedIn + GitHub updates
-
-    def ambition(self):
-        return "Ship production-grade AI systems. Get recruited. Make an impact."
-```
-
-
-##  The Full-Stack AI/ML Engineer Vision
-
-> My goal isn't narrow specialization — it's **end-to-end AI engineering mastery**: from understanding why a gradient vanishes, to designing distributed systems, to deploying and monitoring models at scale.
-
-| Domain | What I'm Building Toward | Status |
-|--------|--------------------------|--------|
-|  **ML Core Fundamentals** | Loss functions · Backprop · Optimization · Regularization · from scratch in NumPy | ✅ Active |
-|  **Deep Learning** | PyTorch · NN diagnostics · Dead neurons · Vanishing/exploding gradients · Architecture design | ✅ Active |
-|  **GenAI & LLM Engineering** | RAG · Multi-agent (LangGraph) · Prompt engineering · Vector search · Embedding models | ✅ Active |
-|  **SQL & Database Engineering** | Advanced queries · Window functions · Schema design · Query optimization · Multi-dialect | ✅ Active |
-|  **System Design & Architecture** | HLD/LLD · Distributed systems · Scalability · CAP theorem · Design patterns |  Building |
-|  **Deployment & MLOps** | FastAPI · Docker · AWS · MLflow · Kubernetes · GitHub Actions CI/CD |  Building |
-|  **Monitoring & Observability** | Model drift · Performance tracking · Logging · Production reliability |  Learning |
-
----
-
 ##  Tech Stack
 
 <div align="center">
@@ -148,6 +97,7 @@ class SwapnilDas:
 
 ---
 
+
 ##  Featured Projects
 
 <div align="center">
@@ -179,6 +129,63 @@ class SwapnilDas:
 
 
 </div>
+
+---
+
+##  About Me
+
+```python
+class SwapnilDas:
+    role          = "Undergrad @ BUET CSE  · Student ID: 2405016"
+    mission       = "Become a world-class AI/ML Engineer — fundamentals to production"
+
+    # ── Core ML & Deep Learning ──────────────────────────────────────────────
+    ml_core       = ["Loss Functions", "Backpropagation", "Gradient Descent", "Regularization"]
+    deep_learning = ["PyTorch", "Neural Network Diagnostics", "CNNs", "Transformers (learning)"]
+
+    # ── GenAI & LLM Engineering ──────────────────────────────────────────────
+    genai_stack   = ["RAG Pipelines", "Multi-agent (LangGraph)", "Prompt Engineering",
+                     "Embedding Models", "Vector Search (ChromaDB · FAISS)"]
+
+    # ── Databases & SQL ──────────────────────────────────────────────────────
+    data_stack    = ["SQL (Advanced)",  "Schema Design"]
+
+    # ── System Design & Architecture ─────────────────────────────────────────
+    system_design = "HLD/LLD · Distributed Systems · Scalability Patterns · Design Principles"
+
+    # ── Deployment & MLOps ───────────────────────────────────────────────────
+    mlops         = ["FastAPI", "Docker", "AWS (EC2/S3/Lambda)", "MLflow",
+                     "Kubernetes", "GitHub Actions CI/CD"]
+
+    # ── Monitoring & Observability ───────────────────────────────────────────
+    monitoring    = "Model drift detection · Performance tracking · Production reliability"
+
+    building_in_public = True   # Daily LinkedIn + GitHub updates
+
+    def ambition(self):
+        return "Ship production-grade AI systems. Get recruited. Make an impact."
+```
+
+
+##  The Full-Stack AI/ML Engineer Vision
+
+> My goal isn't narrow specialization — it's **end-to-end AI engineering mastery**: from understanding why a gradient vanishes, to designing distributed systems, to deploying and monitoring models at scale.
+
+| Domain | What I'm Building Toward | Status |
+|--------|--------------------------|--------|
+|  **ML Core Fundamentals** | Loss functions · Backprop · Optimization · Regularization · from scratch in NumPy | ✅ Active |
+|  **Deep Learning** | PyTorch · NN diagnostics · Dead neurons · Vanishing/exploding gradients · Architecture design | ✅ Active |
+|  **GenAI & LLM Engineering** | RAG · Multi-agent (LangGraph) · Prompt engineering · Vector search · Embedding models | ✅ Active |
+|  **SQL & Database Engineering** | Advanced queries · Window functions · Schema design · Query optimization · Multi-dialect | ✅ Active |
+|  **System Design & Architecture** | HLD/LLD · Distributed systems · Scalability · CAP theorem · Design patterns |  Building |
+|  **Deployment & MLOps** | FastAPI · Docker · AWS · MLflow · Kubernetes · GitHub Actions CI/CD |  Building |
+|  **Monitoring & Observability** | Model drift · Performance tracking · Logging · Production reliability |  Learning |
+
+---
+
+
+---
+
 
 ---
 
