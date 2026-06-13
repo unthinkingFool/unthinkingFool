@@ -212,30 +212,6 @@ class SwapnilDas:
 
 ---
 
-##  SQL & Database Expertise
-
-```sql
--- What I can do with data
-SELECT skill, proficiency_level, application
-FROM swapnil_das.database_skills
-WHERE category IN ('SQL', 'Database Design', 'Query Engineering')
-ORDER BY proficiency_level DESC;
-
-/*
-┌─────────────────────────────┬─────────────┬──────────────────────────────────────────┐
-│ skill                       │ level       │ application                              │
-├─────────────────────────────┼─────────────┼──────────────────────────────────────────┤
-│ Complex JOIN Operations     │ Advanced    │ Multi-table relational queries            │
-│ Window Functions            │ Advanced    │ ROW_NUMBER, RANK, LAG/LEAD, NTILE        │
-│ CTEs & Subqueries           │ Advanced    │ Readable, modular query architecture     │
-│ Stored Procedures & Triggers│ Experienced │ Business logic inside the database       │
-│ DDL/DML/DCL/TCL             │ Mastered    │ Schema design, transactions, permissions │
-│ Query Optimization          │ Practiced   │ Indexes, EXPLAIN plans, execution tuning │
-│ Partitioning & Sharding     │ Learning    │ Large-scale data distribution            │                 
-└─────────────────────────────┴─────────────┴──────────────────────────────────────────┘
-*/
-```
-
 ---
 
 ##  My Learning Architecture
