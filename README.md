@@ -126,9 +126,7 @@
 <a href="https://github.com/unthinkingFool/CSB2.0">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=unthinkingFool&repo=CSB2.0&theme=github_dark_dimmed&border_color=58a6ff&title_color=58a6ff&icon_color=58a6ff" />
 </a>
-<a href="https://github.com/unthinkingFool/SQL">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=unthinkingFool&repo=SQL&theme=github_dark_dimmed&border_color=58a6ff&title_color=58a6ff&icon_color=58a6ff" />
-</a>
+
 
 
 </div>
