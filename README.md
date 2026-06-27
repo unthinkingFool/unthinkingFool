@@ -87,6 +87,14 @@
 <img src="https://img.shields.io/badge/GitHub%20Actions-CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
 <img src="https://img.shields.io/badge/Kubernetes-Orchestration-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
 
+###  Full-Stack Development
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,typescript,mongodb&theme=dark" height="50"/>
+<br/>
+<img src="https://img.shields.io/badge/MongoDB-Mongoose%20ODM-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/JWT-Authentication-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/>
+<img src="https://img.shields.io/badge/REST%20APIs-Building-58a6ff?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/TypeScript-Strongly%20Typed-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+
 ###  System Design & Architecture
 <img src="https://img.shields.io/badge/HLD%20%7C%20LLD-Actively%20Studying-58a6ff?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Distributed%20Systems-Learning-58a6ff?style=for-the-badge"/>
