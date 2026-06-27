@@ -108,8 +108,8 @@
 <a href="https://github.com/unthinkingFool/neetcode-gpt">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=unthinkingFool&repo=neetcode-gpt&theme=github_dark_dimmed&border_color=58a6ff&title_color=58a6ff&icon_color=58a6ff" />
 </a>
-<a href="https://github.com/unthinkingFool/sql-data-warehouse">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=unthinkingFool&repo=sql-data-warehouse&theme=github_dark_dimmed&border_color=58a6ff&title_color=58a6ff&icon_color=58a6ff" />
+<a href="https://github.com/unthinkingFool/sql-data-warehouse-with-NL2SQL-ai-integration">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=unthinkingFool&repo=sql-data-warehouse-with-NL2SQL-ai-integration&theme=github_dark_dimmed&border_color=58a6ff&title_color=58a6ff&icon_color=58a6ff" />
 </a>
 <a href="https://github.com/unthinkingFool/chat_pdf_threaded_application">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=unthinkingFool&repo=chat_pdf_threaded_application&theme=github_dark_dimmed&border_color=58a6ff&title_color=58a6ff&icon_color=58a6ff" />
