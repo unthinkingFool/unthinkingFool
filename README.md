@@ -31,77 +31,87 @@
 
 ---
 
-##  Tech Stack
+## 🧠 Tech Stack & Engineering Arsenal
 
 <div align="center">
 
-###  AI / ML / Deep Learning
-<img src="https://skillicons.dev/icons?i=pytorch,python,tensorflow&theme=dark" height="50"/>
+### 💻 Programming Languages
+<img src="https://skillicons.dev/icons?i=python,cpp,java,c,typescript,javascript&theme=dark" height="50"/>
+
+### 🤖 Machine Learning & Deep Learning
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn&theme=dark" height="50"/>
 <br/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
+<img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
+
+### 🧬 LLM Engineering & Generative AI
+<img src="https://img.shields.io/badge/Transformers-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
 <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
-<img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=green"/>
-<img src="https://img.shields.io/badge/Groq-FF6C2F?style=for-the-badge&logo=groq&logoColor=white"/>
-<img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
-<img src="https://img.shields.io/badge/ChromaDB-0A1628?style=for-the-badge&logoColor=white"/>
-<img src="https://img.shields.io/badge/FAISS-0057e7?style=for-the-badge&logoColor=white"/>
-
-### Databases & SQL
-<img src="https://img.shields.io/badge/SQL-Advanced-4479A1?style=for-the-badge&logo=database&logoColor=white"/>
-<img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
+<img src="https://img.shields.io/badge/Groq-F55036?style=for-the-badge&logo=groq&logoColor=white"/>
+<img src="https://img.shields.io/badge/Whisper-412991?style=for-the-badge&logo=openai&logoColor=white"/>
 <br/>
-<img src="https://img.shields.io/badge/DDL%20%7C%20DML%20%7C%20DCL-Mastered-58a6ff?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Window%20Functions-Expert-58a6ff?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Query%20Optimization-Practiced-58a6ff?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Stored%20Procedures%20%7C%20Triggers-Experienced-58a6ff?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Prompt%20Engineering-Design%20%26%20Evaluation-58a6ff?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Model%20Fine--Tuning-LLM%20Adaptation-58a6ff?style=for-the-badge"/>
 
-###  Languages & Frameworks
-<img src="https://skillicons.dev/icons?i=python,java,cpp,c&theme=dark" height="50"/>
+### 🔎 RAG & Knowledge Systems
+<img src="https://img.shields.io/badge/RAG-Retrieval%20Augmented%20Generation-58a6ff?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/ChromaDB-Vector%20Database-0A1628?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/FAISS-Vector%20Search-0057e7?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/HuggingFace%20Embeddings-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
+
+### 🕸️ Agentic AI & Multi-Agent Systems
+<img src="https://img.shields.io/badge/LangGraph-Agent%20Orchestration-1C3C3C?style=for-the-badge&logo=langchain&logoColor=green"/>
+<img src="https://img.shields.io/badge/Tool%20Calling-Function%20Execution-58a6ff?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Stateful%20Workflows-Agent%20Memory-58a6ff?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Multi--Agent%20Systems-Coordination-58a6ff?style=for-the-badge"/>
+
+### 🗄️ Databases & Data Engineering
+<img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,mongodb&theme=dark" height="50"/>
 <br/>
-<img src="https://skillicons.dev/icons?i=fastapi,flask,html,css&theme=dark" height="50"/>
+<img src="https://img.shields.io/badge/SQL-Query%20Engineering-4479A1?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Vector%20Databases-ChromaDB%20%7C%20FAISS-0057e7?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Database%20Design-Advanced%20SQL-4479A1?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Data%20Pipelines-ETL%20%7C%20ELT-58a6ff?style=for-the-badge"/>
 
-###  Data Science & Analysis
-<img src="https://skillicons.dev/icons?i=numpy,opencv&theme=dark" height="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" height="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="50"/>
+### ⚙️ Backend & API Engineering
+<img src="https://skillicons.dev/icons?i=fastapi,flask,nodejs,express&theme=dark" height="50"/>
+<br/>
+<img src="https://img.shields.io/badge/REST%20APIs-API%20Development-58a6ff?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/JWT-Authentication-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/>
+<img src="https://img.shields.io/badge/Mongoose-MongoDB%20ODM-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
 
-###  Cloud & DevOps
-<img src="https://skillicons.dev/icons?i=aws,git,github,docker&theme=dark" height="50"/>
-
-###  GenAI & LLM Engineering
-<img src="https://img.shields.io/badge/Prompt%20Engineering-Systematic-58a6ff?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/RAG%20Pipelines-Built%20%26%20Shipped-58a6ff?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Multi--Agent%20Orchestration-LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=green"/>
-<img src="https://img.shields.io/badge/Vector%20Search-ChromaDB%20%7C%20FAISS-0057e7?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Embedding%20Models-HuggingFace%20MiniLM-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
-<img src="https://img.shields.io/badge/Whisper-Speech%20to%20Text-FF6C2F?style=for-the-badge"/>
-
-###  MLOps · Deployment · Monitoring
+### 🚀 MLOps & AI Deployment
 <img src="https://skillicons.dev/icons?i=docker,kubernetes,githubactions&theme=dark" height="50"/>
 <br/>
-<img src="https://img.shields.io/badge/FastAPI-Model%20Serving-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
-<img src="https://img.shields.io/badge/AWS-EC2%20%7C%20S3%20%7C%20Lambda-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
 <img src="https://img.shields.io/badge/MLflow-Experiment%20Tracking-0194E2?style=for-the-badge&logo=mlflow&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub%20Actions-CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
-<img src="https://img.shields.io/badge/Kubernetes-Orchestration-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+<img src="https://img.shields.io/badge/FastAPI-Model%20Serving-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/CI%2FCD-Automation-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
+<img src="https://img.shields.io/badge/Model%20Monitoring-Performance%20%26%20Drift-58a6ff?style=for-the-badge"/>
 
-###  Full-Stack Development
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,typescript,mongodb&theme=dark" height="50"/>
+### ☁️ Cloud & DevOps
+<img src="https://skillicons.dev/icons?i=aws,git,github,docker&theme=dark" height="50"/>
 <br/>
-<img src="https://img.shields.io/badge/MongoDB-Mongoose%20ODM-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-<img src="https://img.shields.io/badge/JWT-Authentication-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/>
-<img src="https://img.shields.io/badge/REST%20APIs-Building-58a6ff?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/TypeScript-Strongly%20Typed-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS-EC2%20%7C%20S3%20%7C%20Lambda-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
 
-###  System Design & Architecture
-<img src="https://img.shields.io/badge/HLD%20%7C%20LLD-Actively%20Studying-58a6ff?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Distributed%20Systems-Learning-58a6ff?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Scalability%20Patterns-Practicing-58a6ff?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Design%20Patterns-Practicing-58a6ff?style=for-the-badge"/>
+### 📊 Data Science & Analytics
+<img src="https://skillicons.dev/icons?i=numpy,opencv,anaconda&theme=dark" height="50"/>
+<br/>
+<img src="https://img.shields.io/badge/Pandas-Data%20Manipulation-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/Kaggle-Data%20Science-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
+
+### 🌐 Full-Stack Development
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,typescript,mongodb,html,css&theme=dark" height="50"/>
+
+### 🏗️ System Design & Architecture
+<img src="https://img.shields.io/badge/High%20Level%20Design-HLD-58a6ff?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Low%20Level%20Design-LLD-58a6ff?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Distributed%20Systems-Architecture-58a6ff?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Design%20Patterns-Software%20Architecture-58a6ff?style=for-the-badge"/>
 
 </div>
+
 
 ---
 
