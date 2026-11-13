@@ -188,7 +188,7 @@ My goal isn't narrow specialization. It's **end-to-end AI engineering mastery**:
 | **Deep Learning** | PyTorch · NN diagnostics · Dead neurons · Vanishing/exploding gradients · Architecture design | ✅ Active |
 | **GenAI & LLM Engineering** | RAG · Multi-agent (LangGraph) · Prompt engineering · Vector search · Embeddings | ✅ Active |
 | **SQL & Database Engineering** | Advanced queries · Window functions · Schema design · Query optimization · Multi-dialect | ✅ Active |
-| **System Design & Architecture** | HLD/LLD · Distributed systems · Scalability · CAP theorem · Design patterns | 🔄 Building |
+| **System Design & Architecture** | HLD/LLD · Distributed systems · Scalability · CAP theorem · Design patterns | ✅ Active |
 | **Deployment & MLOps** | FastAPI · Docker · AWS · MLflow · Kubernetes · GitHub Actions CI/CD | 🔄 Building |
 | **Monitoring & Observability** | Model drift · Performance tracking · Logging · Production reliability | 📚 Learning |
 
