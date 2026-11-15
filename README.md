@@ -320,3 +320,9 @@ I document my learning journey on **LinkedIn** and **GitHub** — every concept 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0d1117&height=120&section=footer&text=Thanks%20for%20visiting!%20Drop%20a%20%E2%AD%90%20if%20something%20helped&fontSize=14&fontColor=8b949e&animation=fadeIn" width="100%"/>
 
 </div>
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/unthinkingFool/unthinkingFool/output/github-contribution-grid-snake.svg" width="100%" />
+
+</div>
