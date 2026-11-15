@@ -59,36 +59,6 @@ My goal isn't narrow specialization. It's **end-to-end AI engineering mastery**:
 
 ---
 
-## 🚀 Featured Projects
-
-<div align="center">
-
-<a href="https://github.com/unthinkingFool/my_journey">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=unthinkingFool&repo=my_journey&theme=github_dark_dimmed&border_color=58a6ff&title_color=58a6ff&icon_color=58a6ff" />
-</a>
-<a href="https://github.com/unthinkingFool/neetcode-gpt">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=unthinkingFool&repo=neetcode-gpt&theme=github_dark_dimmed&border_color=58a6ff&title_color=58a6ff&icon_color=58a6ff" />
-</a>
-<a href="https://github.com/unthinkingFool/sql-data-warehouse-with-NL2SQL-ai-integration">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=unthinkingFool&repo=sql-data-warehouse-with-NL2SQL-ai-integration&theme=github_dark_dimmed&border_color=58a6ff&title_color=58a6ff&icon_color=58a6ff" />
-</a>
-<a href="https://github.com/unthinkingFool/chat_pdf_threaded_application">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=unthinkingFool&repo=chat_pdf_threaded_application&theme=github_dark_dimmed&border_color=58a6ff&title_color=58a6ff&icon_color=58a6ff" />
-</a>
-<a href="https://github.com/unthinkingFool/blog_research">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=unthinkingFool&repo=blog_research&theme=github_dark_dimmed&border_color=58a6ff&title_color=58a6ff&icon_color=58a6ff" />
-</a>
-<a href="https://github.com/unthinkingFool/medical_chatbot">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=unthinkingFool&repo=medical_chatbot&theme=github_dark_dimmed&border_color=58a6ff&title_color=58a6ff&icon_color=58a6ff" />
-</a>
-<a href="https://github.com/unthinkingFool/movie-recommendation-system">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=unthinkingFool&repo=movie-recommendation-system&theme=github_dark_dimmed&border_color=58a6ff&title_color=58a6ff&icon_color=58a6ff" />
-</a>
-<a href="https://github.com/unthinkingFool/CSB2.0">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=unthinkingFool&repo=CSB2.0&theme=github_dark_dimmed&border_color=58a6ff&title_color=58a6ff&icon_color=58a6ff" />
-</a>
-
-</div>
 
 ---
 
@@ -321,8 +291,14 @@ I document my learning journey on **LinkedIn** and **GitHub** — every concept 
 
 </div>
 
+
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/unthinkingFool/unthinkingFool/output/github-contribution-grid-snake.svg" width="100%" />
+<img
+  src="https://raw.githubusercontent.com/unthinkingFool/unthinkingFool/output/github-contribution-grid-snake.svg"
+  width="100%"
+  alt="Electric Blue GitHub Contribution Snake"
+/>
 
 </div>
+
