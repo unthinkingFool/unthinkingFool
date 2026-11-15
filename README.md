@@ -243,20 +243,33 @@ My goal isn't narrow specialization. It's **end-to-end AI engineering mastery**:
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=unthinkingFool&show_icons=true&theme=github_dark_dimmed&border_color=58a6ff&title_color=58a6ff&icon_color=58a6ff&text_color=cdd9e5&hide_border=false&include_all_commits=true&count_private=true" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=unthinkingFool&theme=github_dark_dimmed&border_color=58a6ff&title_color=58a6ff&text_color=cdd9e5&layout=compact&langs_count=8&hide_border=false" height="165"/>
+<!-- PROFILE CONTRIBUTION OVERVIEW -->
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=unthinkingFool&theme=github_dark" />
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=unthinkingFool&theme=github-dark-blue&border=58a6ff&stroke=58a6ff&ring=58a6ff&fire=ff7b54&currStreakLabel=58a6ff&sideLabels=8b949e&dates=8b949e&hide_border=false" width="60%"/>
+<!-- GITHUB STATS -->
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=unthinkingFool&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=79C0FF&text_color=C9D1D9" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=unthinkingFool&layout=compact&langs_count=8&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" />
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=unthinkingFool&theme=github-compact&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ff7b54&area=true&hide_border=false" width="90%"/>
+<!-- CONTRIBUTION STREAK -->
+<img width="80%" src="https://streak-stats.demolab.com?user=unthinkingFool&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=79C0FF&currStreakLabel=58A6FF&sideLabels=79C0FF&dates=8B949E&currStreakNum=FFFFFF&sideNums=C9D1D9" />
+
+<br/><br/>
+
+<!-- CONTRIBUTION ACTIVITY -->
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=unthinkingFool&bg_color=0D1117&color=79C0FF&line=58A6FF&point=FFFFFF&area=true&area_color=1F6FEB&hide_border=true&custom_title=Contribution%20Activity" />
+
+<br/><br/>
+
+<!-- LANGUAGE ANALYTICS -->
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=unthinkingFool&theme=github_dark" />
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=unthinkingFool&theme=github_dark" />
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=unthinkingFool&theme=github_dark&utcOffset=6" />
 
 </div>
-
----
 
 ## 🌱 Building in Public
 
