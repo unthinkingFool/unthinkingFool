@@ -1,0 +1,29 @@
+
+name: Update GitHub Activity Overview
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Generate activity cards
+        uses: seijikohara/profile-cards-action@v1
+        with:
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          username: unthinkingFool
+          cards: composition,overview
+          output-dir: assets
+          themes: dark
+          palette: blue
+          commit: true
